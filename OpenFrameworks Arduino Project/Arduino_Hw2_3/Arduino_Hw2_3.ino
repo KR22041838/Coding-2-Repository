@@ -1,5 +1,5 @@
-bool ledState1 = false; // Variable for storing the state of the first LED
-bool ledState2 = false; // Variable for storing the state of the second LED
+bool ledState1 = false; // Variable for storing the state of the first green LED
+bool ledState2 = false; // Variable for storing the state of the second red LED
 int ledPin1 = 12; // green Pin number for the first LED
 int ledPin2 = 11; // red Pin number for the second LED
 
