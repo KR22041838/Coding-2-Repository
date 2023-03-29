@@ -1,3 +1,5 @@
+// Arduino code connected to OpenFrameworks, When mouse is clicked LED's switch between red and green.
+
 bool ledState1 = false; // Variable for storing the state of the first LED
 bool ledState2 = false; // Variable for storing the state of the second LED
 int ledPin1 = 12; // green Pin number for the first LED
