@@ -2,8 +2,8 @@
 
 //--------------------------------------------------------------
 void ofApp::setup(){
-	ofSetBackgroundColor(0);
-	ofSetCircleResolution(100);
+	ofSetBackgroundColor(0); //sets background to black
+	ofSetCircleResolution(100); //sets size of circle 
 	ofSetDepthTest(true);
 }
 
