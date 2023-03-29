@@ -4,7 +4,7 @@ This provides README explainations for each project.
 
 
 
-#1. OpenFW HW2 
+# 1. OpenFW HW2 
 - Panopto Video called: Coding2 Week2HW
 
 This project required remaking a homework from Coding 1 in C++ in Visual Studios using OpenFrameworks.
@@ -15,7 +15,7 @@ This project creates an animated sequence using the ‘void ofApp::draw’ loop.
 
 
 
-#2. OpenFrameworks Arduino Projects
+# 2. OpenFrameworks Arduino Projects
 - Panopto Video called: OpenFW Arduino Project
 
 This project connects Arduino Communication with Openframeworks. 
@@ -32,7 +32,7 @@ There is ‘if else statement’ which writes back to OFworks using a char strin
 
 
 
-#3. JupyterNotebook Python Challenge 
+# 3. JupyterNotebook Python Challenge 
 
 For the PythonChallege style challenge I made a riddle where the user has to work out the new position of ‘m’ within the alphabet using the numerical value of c^2. They then need to create code to map the shift in positional value within  the alphabet and find the new positions of each letter. 
 
@@ -48,7 +48,7 @@ To work out c^2, take the numeral position of c in the alphabet and square it:
 
 
 
-#4. JupyterNotebook TensorFlow
+# 4. JupyterNotebook TensorFlow
 
 In this project I experimented with image processing techniques. 
 
