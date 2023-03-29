@@ -6,6 +6,7 @@ This provides README explainations for each project.
 
 # 1. OpenFW HW2 
 - Panopto Video called: Coding2 Week2HW
+https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b1cad748-0b08-490d-8195-afd400e08aff
 
 This project required remaking a homework from Coding 1 in C++ in Visual Studios using OpenFrameworks.
 
@@ -17,6 +18,7 @@ This project creates an animated sequence using the ‘void ofApp::draw’ loop.
 
 # 2. OpenFrameworks Arduino Projects
 - Panopto Video called: OpenFW Arduino Project
+https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8d4c1afc-5798-47a5-b0fc-afd400e35849
 
 This project connects Arduino Communication with Openframeworks. 
 
