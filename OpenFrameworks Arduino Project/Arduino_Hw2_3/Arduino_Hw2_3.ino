@@ -17,18 +17,18 @@ void loop() {
       ledState1 = !ledState1; // Toggle the state of the first LED
       digitalWrite(ledPin1, ledState1); // Change the state of the first LED
 
-      if (ledState1 == true) { // If the first LED is turned on
-        ledState2 = false; // Turn off the second LED
+      if (ledState1 == true) { // If the green LED is turned on
+        ledState2 = false; // Turn off the red LED
         digitalWrite(ledPin2, ledState2); // Change the state of the second LED
       }
 
-       if (ledState1 == false) { // If the first LED is turned on
-        ledState2 = true; // Turn off the second LED
+       if (ledState1 == false) { // If the green LED is turned off
+        ledState2 = true; // Turn on the red LED
         digitalWrite(ledPin2, ledState2); // Change the state of the second LED
       }
     }
 
-    if (ledState1) {
+    if (ledState1) { //if ledstate = false write red else write green
       char mystr[5] = "RED  "; // Create a response string for the first LED
       Serial.write(mystr, 5); // Send the response in return
     }
